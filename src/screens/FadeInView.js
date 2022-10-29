@@ -52,6 +52,8 @@ class FadeInView extends React.Component {
           }),
           left: '0%',
           bottom: '5%',
+          top: '1%',
+          right: '80%',
         }}
       >
         
